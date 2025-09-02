@@ -1,7 +1,3 @@
-Of course. Here is the list, in English and without any changes, exactly as you provided it.
-
----
-
 🔥 100 Nginx Real-World Challenges, Techniques & Best Practices
 
 **1. Configuration Management**
